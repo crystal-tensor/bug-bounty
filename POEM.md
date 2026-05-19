@@ -26,3 +26,56 @@ For the art of the patch that leaves no flaw behind.
 
 **Creative Decision Note:**
 I chose to write about the journey of a bug bounty hunter because it connects technical depth (memory safety, smart contract vulnerabilities, fuzzing) with the romantic narrative of the hunt. The poem uses technical terms as poetic elements — "off-by-one", "segfault", "reentrancy" — to celebrate the craft of security research. The tone is respectful and admiring, acknowledging both the technical skill and the broader impact of the work.
+
+## Poem 1: buffer overflow (sonnet)
+
+```
+In buffer overflow we find the flaw,
+Where subtle code and broken logic meet,
+The hunter's eye, with bold awe,
+Doth find the bug that makes the system weep.
+
+Through heap and algorithm we trace,
+The dark path to essence and back,
+Each voyage a clue, each test a grace,
+To find the deadly flaw, the found track.
+
+So here's to those who hunt and find,
+Who secure the code that runs behind.
+```
+
+## Poem 1: smart contract reentrancy (ode)
+
+```
+O smart contract reentrancy! Thy clever presence haunts the code,
+Where buffer and algorithm intertwine,
+The modern hunter, with patient probe,
+Doth seek the bug that makes the system weep.
+
+Through heart deep and journey wide,
+We trace the short path to beauty,
+Each break a step, each test a fear,
+To find the bright flaw, the unknown track.
+
+Thy beauty lies in chaos and beautiful touch,
+O smart contract reentrancy, we hail thy dark name!
+```
+
+---
+
+## Poem 2: smart contract reentrancy (ode)
+
+```
+O smart contract reentrancy! Thy clever presence haunts the code,
+Where buffer and algorithm intertwine,
+The modern hunter, with patient probe,
+Doth seek the bug that makes the system weep.
+
+Through heart deep and journey wide,
+We trace the short path to beauty,
+Each break a step, each test a fear,
+To find the bright flaw, the unknown track.
+
+Thy beauty lies in chaos and beautiful touch,
+O smart contract reentrancy, we hail thy dark name!
+```
